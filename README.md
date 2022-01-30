@@ -1,2 +1,2 @@
 # hll
- hyperloglog for cardinality estimation problem
+ hyperloglog  for the cardinality estimation problem
