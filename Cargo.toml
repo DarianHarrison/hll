@@ -2,8 +2,8 @@
 name = "hll"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "cardinality estimation"
+authors = ["Darian Harrison <darianharrison89@gmail.com>"]
 
 [dependencies]
 fasthash = "0.4"
